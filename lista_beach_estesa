@@ -1,0 +1,25 @@
+# FB, 08-04-2016
+
+Ecco qui alcune idee. Alcune le estendo, per spiegare meglio dove possono puntare.
+
+Sito internet, con relativo db:
+  -esempi:
+    +social network(fb,twitter...)
+    +forum(esistono forum su tutto oggigiorno)
+    +sito orientato a archivio e sharing di contenuti multimediali(youtube, imgur, 4chan)
+      ++alcuni di questi permettono creazione e gestione di account
+    +circolo sportivo o non (atletica, golf, alcolisti anonimi)
+    +band musicale(strumentazione,dischi,date e tour,storico...)
+    +cinema,multisala
+    +cinema, produzione di un film
+      ++settori(scenografia,regia,musiche,attori,fx,tecnici...)
+      ++ruoli delle persone
+      ++oggetti legati ai ruoli(attrezzature, camerini,costumi)
+      ...
+    +archivio classico(tribunale, polizia e casi)
+    +astronomia: db sui corpi celesti e i loro sistemi
+    +esercito(considera i reparti terra,marina,aviazione)
+    +corpo umano
+    +ospedale
+    +pokedex(la manna per i fan dei pokemon. Solo prima gen. x semplicita`)
+    
