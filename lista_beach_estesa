@@ -23,3 +23,15 @@ Sito internet, con relativo db:
     +ospedale
     +pokedex(la manna per i fan dei pokemon. Solo prima gen. x semplicita`)
     
+
+Ecco alcune mie idee:
+ - gestione magazzino: può essere un generico magazzino (ad esempio Amazon) o specifico (ad esempio un magazzino di legname).
+   Il database modellerà la scorta di materiale, la fornitura e l'estrazione; due specifici personaggi potranno accedervi: impiegato
+   e cliente, ovviamente con tutte le casistiche correlate al personaggio
+- gestione di una pizzeria/ristorante/bar: vi sarà una componente di magazzino (scorte alimenti, rifornimenti, ecc.) più gestine dei
+  tavoli, ordini, conti, ecc.
+- gestione di una stazione ferroviaria
+- gestione di un porto commerciale
+- gestione di un aeroporto
+- gestione di un parco di divertimenti
+    
