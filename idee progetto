@@ -1,9 +1,7 @@
-# FB, 08-04-2016
+# last update 11-04-2016
+//non riesco a formattare bene da cellulare :/
+Lista:
 
-Ecco qui alcune idee. Alcune le estendo, per spiegare meglio dove possono puntare.
-
-Sito internet, con relativo db:
-  -esempi:
     +social network(fb,twitter...)
     +forum(esistono forum su tutto oggigiorno)
     +sito orientato a archivio e sharing di contenuti multimediali(youtube, imgur, 4chan)
@@ -22,9 +20,8 @@ Sito internet, con relativo db:
     +corpo umano
     +ospedale
     +pokedex(la manna per i fan dei pokemon. Solo prima gen. x semplicita`)
-    
+    +telefono cellulare
 
-Ecco alcune mie idee:
  - gestione magazzino: può essere un generico magazzino (ad esempio Amazon) o specifico (ad esempio un magazzino di legname).
    Il database modellerà la scorta di materiale, la fornitura e l'estrazione; due specifici personaggi potranno accedervi: impiegato
    e cliente, ovviamente con tutte le casistiche correlate al personaggio
