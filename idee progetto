@@ -1,4 +1,4 @@
-# last update 11-04-2016
+# 
 
 Lista:
 
@@ -20,7 +20,8 @@ Lista:
     +corpo umano
     +ospedale
     +pokedex(la manna per i fan dei pokemon. Solo prima gen. x semplicita`)
-    +telefono cellulare
+    +telefono cellulare (contatti, info sistema, info utente, applicazioni e dipendenze, dati. Sembra complicato)
+    +genealogia e ruoli di un insieme di persone (puo` funzionare per det. insiemi di persone suddivisi in gruppi e aventi differenti ruoli. Es: case di Game of Thrones)
 
     - gestione magazzino: può essere un generico magazzino (ad esempio Amazon) o specifico (ad esempio un magazzino di legname).
     Il database modellerà la scorta di materiale, la fornitura e l'estrazione; due specifici personaggi potranno accedervi: impiegato
